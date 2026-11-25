@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Podaci (preveliki / uslovi korišćenja)
+data/*
+!data/.gitkeep
+
+# Local working notes and course instructions (not part of submission)
+CLAUDE.md
+tema.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
